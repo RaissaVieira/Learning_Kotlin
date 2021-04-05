@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Raissa Vieira</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+            Oi, meu nome é Raissa.
+        \n  Eu amo conversar com meus amigos;
+        \n  Eu amo ajudar às pessoas;
+        \n  Eu amo programar;
+        \n  Eu amo comer;
+        \n  Eu amo macarrão, carne, chocolate;
+        \n  Eu amo minha familia
+        \n  Eu amo estudar;
+        \n  Eu amo dormir;
+        \n  Eu amo assitir series;
+        \n  Eu amo reality show;
+        \n  Eu amo aprender coisas novas;
+        \n  Eu amo descansar;
+        \n  Eu amo ver minhas redes sociais;
+        \n  Eu amo beber cerveja com meus amigos;
+        \n  Eu amo dancar;
+
+    </string>
+    <string name="my_image">My Image</string>
+    <string name="what_is_your_nickname">Qual é seu apelido?</string>
+    <string name="done">Done</string>
+</resources>
